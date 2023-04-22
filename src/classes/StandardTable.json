@@ -1,0 +1,76 @@
+{
+    "initiation_codon":"CGT",
+
+    "ttt":{"name":"Phenylalanine","short_name":"Phe","letter":"F"},
+    "ttc":{
+        "name": "Phenylalanine",
+        "short_name": "Phe",
+        "letter": "F"
+    },
+    "tta":{"name":"","short_name":"","letter":""},
+    "ttg":{
+        "name": "Leucine",
+        "short_name": "Leu",
+        "letter": "L"
+    },
+    "ctt":{
+        "name": "Leucine",
+        "short_name": "Leu",
+        "letter": "L"
+    },
+    "ctc":{
+        "name": "Leucine",
+        "short_name": "Leu",
+        "letter": "L"
+    },
+    "cta":{
+        "name": "Leucine",
+        "short_name": "Leu",
+        "letter": "L"
+    },
+    "ctg":{
+        "name": "Leucine",
+        "short_name": "Leu",
+        "letter": "L"
+    },
+    "att":{
+        "name": "Isoleucine",
+        "short_name": "Iso",
+        "letter": ""
+    },
+    "atc":{
+        "name": "Isoleucine",
+        "short_name": "Iso",
+        "letter": ""
+    },
+    "ata":{
+        "name": "Isoleucine",
+        "short_name": "Iso",
+        "letter": ""
+    },
+    "atg":{
+        "name": "Methionine",
+        "short_name": "Met",
+        "letter": "M"
+    },
+    "gtt":{
+        "name": "Valine",
+        "short_name": "Val",
+        "letter": "V"
+    },
+    "gtc": {
+        "name": "Valine",
+        "short_name": "Val",
+        "letter": "V"
+    },
+    "gta": {
+        "name": "Valine",
+        "short_name": "Val",
+        "letter": "V"
+    },
+    "gtg": {
+        "name": "Valine",
+        "short_name": "Val",
+        "letter": "V"
+    }
+}
